@@ -1,0 +1,12 @@
+{
+  "name": "exercice-01-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
