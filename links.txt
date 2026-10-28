@@ -1,0 +1,29 @@
+Outside-in Diamond pour écrire des tests Antifragiles & orientés métier - Thomas Pierrain :
+https://www.youtube.com/watch?v=09R8ROv3aKU
+
+
+Test et refactorisation du code hérité :
+https://www.youtube.com/watch?v=_NnElPO5BU0
+
+  
+KATA : Gilded Rose avec Colin :
+https://www.youtube.com/watch?v=sZxL4uX9ioQ
+
+Coderetreat:
+https://www.coderetreat.org/events/
+
+Test-Driven Development by Example
+https://www.amazon.com/dp/0321146530?lv=shuf&channelId=500&plpRedirect=mhFallback
+
+
+Unit Testing: Principles, Practices, and Patterns de Vladimir Khorikov
+https://www.amazon.fr/-/en/Unit-Testing-Principles-Practices-Patterns/dp/1617296279
+
+Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation
+https://www.amazon.fr/-/en/Continuous-Delivery-Reliable-Deployment-Automation/dp/0321601912
+
+Patterns, Principles and Practices of Domain-Driven Design by Scott Millett 
+https://www.amazon.fr/Patterns-Principles-Practices-Domain-Driven-2015-05-22/dp/B010EVTUCI
+
+
+https://www.youtube.com/watch?v=h3DLKrvp5V8
